@@ -1,0 +1,17 @@
+h1 {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+
+img {
+    display: block;
+    margin-bottom: 50px; 
+}
+
+h2 {
+    font-family: Arial, sans-serif;
+    font-size: 1.2em;
+    font-weight: normal;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
